@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=FWEEaaaa1)
 ## Sup.
 
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
