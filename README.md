@@ -20,4 +20,6 @@ Email one of these: gorgonfweman@outlook.com, job@job.is-a.dev, info@joblol.xyz
 <br> Mainly open free developer domains where you can go make a name for yourself is what interests me.
 <br> People also know me from the ORC (Old ROBLOX Community)
 <br> I'm well known there, 1.19k subscribers on YouTube as of right now lol.
+<p>
 <br> I used to run a lot of projects, mainly related to Old Roblox and Reverse Engineering.
+<br> Projects like Boilerplate, Evenblox, Ennbx. These were all roblox revivals, and related to roblox reverse engineering.
