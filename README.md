@@ -3,9 +3,10 @@
 
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
 <br> Owner @ boilpl.xyz - boilerplate (defunct)
+<br> Owner @ Ennbx (defunct)
 <br> ORC YouTuber @ https://www.youtube.com/@The_Mirror994 - i'm the real job xd
 <p>
 <br> I don't know why I'm making a GitHub README.md 3 years later.. Oh well.
 <br> If you'd like to talk to me..
 <p>
-Email: gorgonfweman@outlook.com, job@job.is-a.dev, info@joblol.xyz
+Email one of these: gorgonfweman@outlook.com, job@job.is-a.dev, info@joblol.xyz
