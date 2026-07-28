@@ -2,10 +2,11 @@
 ## Sup.
 
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
-<br> Owner @ boilpl.xyz - boilerplate (defunct)
+<br> Owner @ boilpl.xyz - boilerplate project (defunct)
 <br> Owner @ Ennbx (defunct)
 <br> Owner @ [joblol.xyz productions & API](https://joblol.xyz)
 <br> ORC YouTuber @ https://www.youtube.com/@The_Mirror994 - i'm the real job xd
+<br> Owner @ is-an-epic.dev (defunct, disgraced project)
 <p>
 <br> I don't know why I'm making a GitHub README.md 3 years later.. Oh well.
 <br> If you'd like to talk to me..
