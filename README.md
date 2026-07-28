@@ -13,6 +13,8 @@ Email one of these: gorgonfweman@outlook.com, job@job.is-a.dev, info@joblol.xyz
   
 ## About me:
 
-<br> I'm job, a full fledged, full stack developer with a love for projects like is-a.dev. Mainly open free developer domains where you can go make a name for yourself
-<br> People also know me from the ORC (Old ROBLOX Community). I'm well known there, 1.19k subscribers on YouTube as of right now lol.
+<br> I'm job, a full fledged, full stack developer with a love for projects like is-a.dev
+<br> Mainly open free developer domains where you can go make a name for yourself is what interests me.
+<br> People also know me from the ORC (Old ROBLOX Community)
+<br> I'm well known there, 1.19k subscribers on YouTube as of right now lol.
 <br> I used to run a lot of projects, mainly related to Old Roblox and Reverse Engineering.
