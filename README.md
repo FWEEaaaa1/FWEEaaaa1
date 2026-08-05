@@ -2,6 +2,7 @@
 ## Sup.
 
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
+<br> Maintainer @ [is-a.bot](https://is-a.bot)
 <br> Owner @ boilpl.xyz - boilerplate project (defunct)
 <br> Owner @ Ennbx (defunct)
 <br> Owner @ [joblol.xyz productions & API](https://joblol.xyz)
