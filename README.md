@@ -7,8 +7,7 @@
 <br> Owner @ Ennbx (defunct)
 <br> Owner @ [joblol.xyz productions & API](https://joblol.xyz)
 <br> ORC YouTuber @ https://www.youtube.com/@The_Mirror994 - i'm the real job xd
-<br> Owner @ is-an-epic.dev (defunct)
-<br> Former developer & Beta tester @ Evenblox (indefinitely halted)
+<br> Tester & Developer @ [Evenblox](https://discord.gg/t9kGX6ZcbK)
 <p>
 <br> I don't know why I'm making a GitHub README.md 3 years later.. Oh well.
 <br> If you'd like to talk to me..
