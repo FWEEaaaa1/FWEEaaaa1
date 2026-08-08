@@ -1,5 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=FWEEaaaa1)
 ## Sup.
+[![Discord Presence](https://lanyard.cnrad.dev/api/1406714617488740424)](https://discord.com/users/1406714617488740424)
 
 <br> (check out my guns.lol page: https://guns.lol/jobbo)
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
