@@ -5,9 +5,6 @@
 <br> (check out my guns.lol page: https://guns.lol/jobbo)
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
 <br> Maintainer @ [is-a.bot](https://is-a.bot)
-<br> Owner @ boilpl.xyz - boilerplate project (defunct)
-<br> Owner @ Ennbx (defunct)
-<br> Owner @ [joblol.xyz productions & API](https://joblol.xyz)
 <br> ORC YouTuber @ https://www.youtube.com/@The_Mirror994 - i'm the real job xd
 <br> Tester & Developer @ [Evenblox](https://discord.gg/t9kGX6ZcbK)
 <p>
