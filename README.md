@@ -3,10 +3,9 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1406714617488740424)](https://discord.com/users/1406714617488740424)
 
 <br> (check out my guns.lol page: https://guns.lol/jobbo)
+<p>
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
 <br> Maintainer @ [is-a.bot](https://is-a.bot)
-<br> ORC YouTuber @ https://www.youtube.com/@The_Mirror994 - i'm the real job xd
-<br> Tester & Developer @ [Evenblox](https://discord.gg/t9kGX6ZcbK)
 <p>
 <br> I don't know why I'm making a GitHub README.md 3 years later.. Oh well.
 <br> If you'd like to talk to me..
