@@ -7,6 +7,7 @@
 
 <br> PR Reviewer @ [is-a.dev](https://is-a.dev)
 <br> Maintainer @ [is-a.bot](https://is-a.bot)
+<br> Owner @ [Boilerplate](https://discord.gg/T8V96XJJmx) - This project has been defunct since 27/05/2026
 <p>
 <br> I don't know why I'm making a GitHub README.md 3 years later.. Oh well.
 <br> If you'd like to talk to me..
